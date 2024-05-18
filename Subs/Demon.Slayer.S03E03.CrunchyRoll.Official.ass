@@ -1,0 +1,336 @@
+[Script Info]
+Title: English (US)
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: DefaultMed,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0270,0070,0
+Style: DefaultHigh,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0070,0
+Style: DefaultLTop,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,7,0060,0270,0060,0
+Style: DefaultRHigh,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,1,0200,0020,0070,0
+Style: DefaultRaisedL,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0270,0070,0
+Style: DefaultRaisedR,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0270,0020,0070,0
+Style: DefaultTopR,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0090,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:04.98,Default,NTP,0000,0000,0000,,{\an8}EDO - YOSHIWARA
+Dialogue: 0,0:00:26.75,0:00:30.00,Default,NTP,0000,0000,0000,,Hey! This all started\Never since you got here, you know!
+Dialogue: 0,0:00:30.34,0:00:34.38,Default,NTP,0000,0000,0000,,How many people do you think\Nhave vanished from this House?
+Dialogue: 0,0:00:34.68,0:00:38.51,Default,NTP,0000,0000,0000,,What is it that you're doing on the sly?
+Dialogue: 0,0:02:38.92,0:02:44.01,Default,NTP,0000,0000,0000,,{\an8}EPISODE 3:\NWHAT ARE YOU?
+Dialogue: 0,0:02:44.01,0:02:48.81,Default,NTP,0000,0000,0000,,{\an8}TOKYO - YOSHIWARA
+Dialogue: 0,0:02:53.86,0:02:56.82,Default,NTP,0000,0000,0000,,So, this is it. Ogimoto House.
+Dialogue: 0,0:03:11.25,0:03:16.59,Default,NTP,0000,0000,0000,,{\an8}ENTERTAINMENT DISTRICT - OGIMOTO HOUSE
+Dialogue: 0,0:03:13.08,0:03:16.59,Default,NTP,0000,0000,0000,,Now then, answer me.
+Dialogue: 0,0:03:18.17,0:03:22.43,Default,NTP,0000,0000,0000,,Who were you writing these letters to?
+Dialogue: 0,0:03:23.18,0:03:26.18,Default,NTP,0000,0000,0000,,What was your name again?
+Dialogue: 0,0:03:26.81,0:03:30.35,Default,NTP,0000,0000,0000,,Oh, that's right. It's Makio.
+Dialogue: 0,0:03:32.44,0:03:34.19,Default,NTP,0000,0000,0000,,Answer me...
+Dialogue: 0,0:03:34.98,0:03:37.02,Default,NTP,0000,0000,0000,,{\an8}Makio.
+Dialogue: 0,0:03:43.95,0:03:47.70,Default,NTP,0000,0000,0000,,{\an8}ENTERTAINMENT DISTRICT - KYOGOKU HOUSE
+Dialogue: 0,0:03:47.99,0:03:51.71,Default,NTP,0000,0000,0000,,{\i1}It seems like I lost sight of who I was.{\i0}
+Dialogue: 0,0:03:52.04,0:03:56.67,Default,NTP,0000,0000,0000,,{\i1}I'm supposed to be looking\Nfor Uzui's wife, Hinatsuru.{\i0}
+Dialogue: 0,0:03:57.00,0:04:01.97,Default,NTP,0000,0000,0000,,{\i1}What good would it do\Nto hone my shamisen and koto skills?{\i0}
+Dialogue: 0,0:04:02.26,0:04:04.97,Default,NTP,0000,0000,0000,,{\i1}Still, what am I going to do?{\i0}
+Dialogue: 0,0:04:05.64,0:04:10.98,Default,NTP,0000,0000,0000,,{\an8}{\i1}I've been all ears since I got here,\Nbut I haven't heard a word about Hinatsuru.{\i0}
+Dialogue: 0,0:04:11.39,0:04:15.02,Default,NTP,0000,0000,0000,,{\i1}It was two days ago that the owner\Nof this House passed away, huh?{\i0}
+Dialogue: 0,0:04:15.48,0:04:18.98,Default,NTP,0000,0000,0000,,{\i1}Everyone's gloomy,\Nand they're keeping their mouths shut.{\i0}
+Dialogue: 0,0:04:21.65,0:04:23.32,Default,NTP,0000,0000,0000,,{\an8}Get that for me, will you?
+Dialogue: 0,0:04:23.32,0:04:24.74,Default,NTP,0000,0000,0000,,{\an8}I can't find my sash!
+Dialogue: 0,0:04:24.74,0:04:26.49,Default,NTP,0000,0000,0000,,{\an8}I'm so hungry!
+Dialogue: 0,0:04:26.49,0:04:28.74,Default,NTP,0000,0000,0000,,Has the hairdresser arrived yet?
+Dialogue: 0,0:04:33.25,0:04:34.54,Default,NTP,0000,0000,0000,,We have a crisis!
+Dialogue: 0,0:04:34.92,0:04:36.88,Default,NTP,0000,0000,0000,,A young girl is crying!
+Dialogue: 0,0:04:39.13,0:04:41.80,Default,NTP,0000,0000,0000,,Someone else is on their way.
+Dialogue: 0,0:04:42.09,0:04:45.63,Default,NTP,0000,0000,0000,,Ogimoto House certainly has\Nno shortage of busybodies.
+Dialogue: 0,0:04:45.97,0:04:49.97,Default,NTP,0000,0000,0000,,{\an8}{\i1}I have to find a way to let him know!{\i0}
+Dialogue: 0,0:04:50.31,0:04:51.93,Default,NTP,0000,0000,0000,,{\i1}Lord Tengen!{\i0}
+Dialogue: 0,0:04:58.56,0:05:03.99,Default,NTP,0000,0000,0000,,Make a commotion, and I'll pulverize\Nall of the organs in your body.
+Dialogue: 0,0:05:07.57,0:05:10.95,Default,NTP,0000,0000,0000,,{\i1}That must be the food that woman left.{\i0}
+Dialogue: 0,0:05:10.95,0:05:14.50,Default,NTP,0000,0000,0000,,{\i1}So it means that's Makio's room, huh?{\i0}
+Dialogue: 0,0:05:15.04,0:05:18.13,Default,NTP,0000,0000,0000,,{\i1}It's odd. It feels so odd!{\i0}
+Dialogue: 0,0:05:18.13,0:05:20.63,Default,NTP,0000,0000,0000,,{\i1}Is she in some kind of trouble now?{\i0}
+Dialogue: 0,0:05:20.63,0:05:22.51,Default,NTP,0000,0000,0000,,{\i1}I can't tell.{\i0}
+Dialogue: 0,0:05:23.01,0:05:26.76,Default,NTP,0000,0000,0000,,{\i1}I'm getting this slimy, creepy vibe, but...{\i0}
+Dialogue: 0,0:05:29.09,0:05:32.85,Default,NTP,0000,0000,0000,,Huh! Sitting here thinking\Nand not doing a thing...
+Dialogue: 0,0:05:32.85,0:05:34.56,Default,NTP,0000,0000,0000,,That's not my style!
+Dialogue: 0,0:05:45.49,0:05:46.90,Default,NTP,0000,0000,0000,,{\i1}The wind...{\i0}
+Dialogue: 0,0:05:47.32,0:05:49.45,Default,NTP,0000,0000,0000,,{\i1}Even though the windows are closed!{\i0}
+Dialogue: 0,0:05:51.66,0:05:53.49,Default,NTP,0000,0000,0000,,{\i1}The attic...{\i0}
+Dialogue: 0,0:05:53.49,0:05:54.25,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:54.25,0:05:55.79,Default,NTP,0000,0000,0000,,Damn you!
+Dialogue: 0,0:05:56.46,0:05:57.87,Default,NTP,0000,0000,0000,,I'm onto you!
+Dialogue: 0,0:06:00.84,0:06:02.21,Default,NTP,0000,0000,0000,,What the...
+Dialogue: 0,0:06:03.13,0:06:05.97,Default,NTP,0000,0000,0000,,It's clattering around in the ceiling!
+Dialogue: 0,0:06:09.51,0:06:10.93,Default,NTP,0000,0000,0000,,{\i1}It's a demon just like I thought!{\i0}
+Dialogue: 0,0:06:11.26,0:06:13.72,Default,NTP,0000,0000,0000,,{\an8}{\i1}Where's it heading?\NWhere's it running off to?{\i0}
+Dialogue: 0,0:06:16.10,0:06:16.85,Default,NTP,0000,0000,0000,,{\an7}OGIMOTO HOUSE
+Dialogue: 0,0:06:16.10,0:06:17.35,Default,NTP,0000,0000,0000,,Out of my way!
+Dialogue: 0,0:06:18.64,0:06:20.10,Default,NTP,0000,0000,0000,,I'm not letting you get away!
+Dialogue: 0,0:06:22.52,0:06:24.28,Default,NTP,0000,0000,0000,,{\an8}What's going on?
+Dialogue: 0,0:06:25.82,0:06:28.74,Default,NTP,0000,0000,0000,,{\i1}It's daytime, so it escaped up there.{\i0}
+Dialogue: 0,0:06:29.61,0:06:33.16,Default,NTP,0000,0000,0000,,{\i1}But it has to climb down the walls\Nat some point!{\i0}
+Dialogue: 0,0:06:37.00,0:06:39.00,Default,NTP,0000,0000,0000,,Right there!
+Dialogue: 0,0:06:40.79,0:06:43.42,Default,NTP,0000,0000,0000,,{\an8}Hey! Now there's a sweet young thingâ€”
+Dialogue: 0,0:06:47.09,0:06:48.59,Default,NTP,0000,0000,0000,,You punched him!
+Dialogue: 0,0:06:51.39,0:06:53.43,Default,NTP,0000,0000,0000,,{\i1}Dammit! I messed up!{\i0}
+Dialogue: 0,0:06:53.43,0:06:55.10,Default,NTP,0000,0000,0000,,{\i1}It's fleeing downstairs!{\i0}
+Dialogue: 0,0:06:55.43,0:06:57.06,Default,NTP,0000,0000,0000,,{\i1}This way?{\i0}
+Dialogue: 0,0:06:59.23,0:07:00.23,Default,NTP,0000,0000,0000,,No.
+Dialogue: 0,0:07:00.23,0:07:01.44,Default,NTP,0000,0000,0000,,It's this way!
+Dialogue: 0,0:07:02.69,0:07:04.19,Default,NTP,0000,0000,0000,,Dammit!
+Dialogue: 0,0:07:04.65,0:07:06.86,Default,NTP,0000,0000,0000,,It's hard to get a feel for it!
+Dialogue: 0,0:07:07.11,0:07:08.86,Default,NTP,0000,0000,0000,,I lost sight of it!
+Dialogue: 0,0:07:08.86,0:07:10.74,Default,NTP,0000,0000,0000,,Dammit!
+Dialogue: 0,0:07:10.74,0:07:12.91,Default,NTP,0000,0000,0000,,It's all because people got in my way!
+Dialogue: 0,0:07:19.37,0:07:23.50,Default,NTP,0000,0000,0000,,Hey! It's like a disaster struck here!\NWhat happened in this room?
+Dialogue: 0,0:07:25.25,0:07:26.25,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:26.25,0:07:28.55,Default,NTP,0000,0000,0000,,W-Were you in a fight?
+Dialogue: 0,0:07:28.55,0:07:29.51,Default,NTP,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:33.84,0:07:35.01,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:35.51,0:07:37.39,Default,NTP,0000,0000,0000,,A-Are you all right?
+Dialogue: 0,0:07:37.39,0:07:40.52,Default,NTP,0000,0000,0000,,Come on, settle down, okay?
+Dialogue: 0,0:07:40.52,0:07:43.65,Default,NTP,0000,0000,0000,,I wasn't angry with you, all right?
+Dialogue: 0,0:07:43.65,0:07:46.69,Default,NTP,0000,0000,0000,,Sorry about that.\NIf you're in any kind of troubleâ€”
+Dialogue: 0,0:07:49.49,0:07:50.86,Default,NTP,0000,0000,0000,,Hey you...
+Dialogue: 0,0:07:50.86,0:07:53.70,Default,NTP,0000,0000,0000,,What are you doing in my room?
+Dialogue: 0,0:07:58.79,0:08:02.21,Default,NTP,0000,0000,0000,,{\an8}{\i1}That's a demon standing behind me.{\i0}
+Dialogue: 0,0:08:02.21,0:08:04.21,Default,NTP,0000,0000,0000,,{\an8}{\i1}That's not what a human sounds like.{\i0}
+Dialogue: 0,0:08:05.04,0:08:08.59,Default,NTP,0000,0000,0000,,{\i1}I didn't even notice her\Nuntil right before she spoke to me.{\i0}
+Dialogue: 0,0:08:08.59,0:08:10.67,Default,NTP,0000,0000,0000,,{\i1}I-Is that even possible?{\i0}
+Dialogue: 0,0:08:10.97,0:08:12.97,Default,NTP,0000,0000,0000,,{\i1}This sound is bad news,{\i0}
+Dialogue: 0,0:08:12.97,0:08:15.97,Default,NTP,0000,0000,0000,,{\i1}but it's so quiet that I'm actually terrified!{\i0}
+Dialogue: 0,0:08:19.77,0:08:21.23,Default,NTP,0000,0000,0000,,{\an8}{\i1}This must be...{\i0}
+Dialogue: 0,0:08:21.60,0:08:25.27,Default,NTP,0000,0000,0000,,{\i1}an U-Upper Rank demon, right?{\i0}
+Dialogue: 0,0:08:26.27,0:08:27.48,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:27.48,0:08:30.03,Default,NTP,0000,0000,0000,,Are you hard of hearing or something?
+Dialogue: 0,0:08:31.90,0:08:34.20,Default,NTP,0000,0000,0000,,W-Warabihime Oiran...
+Dialogue: 0,0:08:34.20,0:08:38.74,Default,NTP,0000,0000,0000,,That girl just started here\Nthe day before yesterday, so...
+Dialogue: 0,0:08:41.70,0:08:44.62,Default,NTP,0000,0000,0000,,Hah! So what if she did?
+Dialogue: 0,0:08:47.92,0:08:49.88,Default,NTP,0000,0000,0000,,Forgive me for entering\Nwithout permission!
+Dialogue: 0,0:08:49.88,0:08:53.63,Default,NTP,0000,0000,0000,,The room's in such disarray,\Nand this girl was crying, so...
+Dialogue: 0,0:08:54.30,0:08:59.64,Default,NTP,0000,0000,0000,,{\an8}Could you be any uglier?\NYou really make me ill.
+Dialogue: 0,0:08:59.97,0:09:02.64,Default,NTP,0000,0000,0000,,Wouldn't you be better off dead?
+Dialogue: 0,0:09:02.98,0:09:05.73,Default,NTP,0000,0000,0000,,What's up with that hair color of yours?
+Dialogue: 0,0:09:06.19,0:09:08.15,Default,NTP,0000,0000,0000,,Do you actually want to stand out?
+Dialogue: 0,0:09:10.69,0:09:15.91,Default,NTP,0000,0000,0000,,This room is still in a shambles.
+Dialogue: 0,0:09:17.82,0:09:21.29,Default,NTP,0000,0000,0000,,{\an8}I thought I told you to clean it up.
+Dialogue: 0,0:09:24.66,0:09:25.92,Default,NTP,0000,0000,0000,,Shut up!
+Dialogue: 0,0:09:25.92,0:09:27.46,Default,NTP,0000,0000,0000,,Stop that screaming!
+Dialogue: 0,0:09:27.46,0:09:29.46,Default,NTP,0000,0000,0000,,You clean up this room!
+Dialogue: 0,0:09:29.46,0:09:31.84,Default,NTP,0000,0000,0000,,I'm sorry! I'm sorry!
+Dialogue: 0,0:09:31.84,0:09:35.34,Default,NTP,0000,0000,0000,,{\an8}I'll do it right now! Please forgive me!
+Dialogue: 0,0:09:41.81,0:09:43.52,Default,NTP,0000,0000,0000,,What?
+Dialogue: 0,0:09:45.23,0:09:46.56,Default,NTP,0000,0000,0000,,{\an8}Please...
+Dialogue: 0,0:09:46.56,0:09:48.35,Default,NTP,0000,0000,0000,,{\an8}take your hands off her!
+Dialogue: 0,0:09:48.98,0:09:53.98,Default,NTP,0000,0000,0000,,{\an1}DEMON SLAYER: KIMETSU NO YAIBA\NENTERTAINMENT DISTRICT ARC
+Dialogue: 0,0:09:53.98,0:09:58.99,Default,NTP,0000,0000,0000,,{\an3}DEMON SLAYER: KIMETSU NO YAIBA\NENTERTAINMENT DISTRICT ARC
+Dialogue: 0,0:09:58.99,0:10:02.87,Default,NTP,0000,0000,0000,,{\an8}ENTERTAINMENT DISTRICT - TOKITO HOUSE
+Dialogue: 0,0:10:21.26,0:10:26.39,Default,NTP,0000,0000,0000,,Madam, I've finished scrubbing the hallways,\Nand the mizukiri and mizuage for the flowers,
+Dialogue: 0,0:10:26.39,0:10:27.69,Default,NTP,0000,0000,0000,,and changed the water!
+Dialogue: 0,0:10:28.06,0:10:30.06,Default,NTP,0000,0000,0000,,What? Already?
+Dialogue: 0,0:10:30.06,0:10:31.90,Default,NTP,0000,0000,0000,,What shall I do next?
+Dialogue: 0,0:10:32.23,0:10:35.07,Default,NTP,0000,0000,0000,,N-Next? Um...
+Dialogue: 0,0:10:37.28,0:10:39.61,Default,NTP,0000,0000,0000,,Here's a fresh cup of tea, Madam!
+Dialogue: 0,0:10:39.61,0:10:41.45,Default,NTP,0000,0000,0000,,Oh, sorry to trouble you.
+Dialogue: 0,0:10:41.45,0:10:42.41,Default,NTP,0000,0000,0000,,Not at all!
+Dialogue: 0,0:10:42.91,0:10:44.74,Default,NTP,0000,0000,0000,,Madam, what next?
+Dialogue: 0,0:10:45.24,0:10:47.00,Default,NTP,0000,0000,0000,,{\an8}Madam, what next?
+Dialogue: 0,0:10:47.25,0:10:48.33,Default,NTP,0000,0000,0000,,{\an8}Madam!
+Dialogue: 0,0:10:48.33,0:10:51.00,Default,NTP,0000,0000,0000,,{\an8}Would you be quiet? Just hold on for a second!
+Dialogue: 0,0:10:53.00,0:10:57.09,Default,NTP,0000,0000,0000,,{\an8}You're a quick worker\Nand such a diligent child, aren't you?
+Dialogue: 0,0:11:06.10,0:11:10.73,Default,NTP,0000,0000,0000,,That new girl went\Nand smashed up the house!
+Dialogue: 0,0:11:11.40,0:11:14.73,Default,NTP,0000,0000,0000,,It looks like I need to teach that one\Na harsh lesson!
+Dialogue: 0,0:11:15.44,0:11:16.57,Default,NTP,0000,0000,0000,,Hey, Inoko!
+Dialogue: 0,0:11:17.74,0:11:19.65,Default,NTP,0000,0000,0000,,What on earth are you doing?
+Dialogue: 0,0:11:20.36,0:11:23.78,Default,NTP,0000,0000,0000,,{\i1}I can't sense it even if I focus.{\i0}
+Dialogue: 0,0:11:24.12,0:11:26.66,Default,NTP,0000,0000,0000,,{\i1}Where the hell did it go?{\i0}
+Dialogue: 0,0:11:42.30,0:11:44.30,Default,NTP,0000,0000,0000,,What did you say?
+Dialogue: 0,0:11:44.30,0:11:46.68,Default,NTP,0000,0000,0000,,Let's hear you say that again.
+Dialogue: 0,0:11:47.01,0:11:50.18,Default,NTP,0000,0000,0000,,Please take your hands off her.
+Dialogue: 0,0:11:50.81,0:11:54.19,Default,NTP,0000,0000,0000,,Up close, you're even uglier than I thought.
+Dialogue: 0,0:11:54.94,0:11:55.90,Default,NTP,0000,0000,0000,,{\an8}Take yourâ€”
+Dialogue: 0,0:11:55.90,0:11:57.82,Default,NTP,0000,0000,0000,,{\an8}How dare you...
+Dialogue: 0,0:11:57.82,0:11:59.99,Default,NTP,0000,0000,0000,,touch me!
+Dialogue: 0,0:12:04.87,0:12:06.87,On Top,NTP,0000,0000,0000,,TWO DAYS BEFORE
+Dialogue: 0,0:12:06.87,0:12:08.62,On Top,NTP,0000,0000,0000,,TANJIRO AND THE OTHERS
+Dialogue: 0,0:12:08.62,0:12:10.37,On Top,NTP,0000,0000,0000,,INFILTRATED
+Dialogue: 0,0:12:10.37,0:12:12.41,On Top,NTP,0000,0000,0000,,KYOGOKU HOUSE
+Dialogue: 0,0:12:12.87,0:12:14.88,Default,NTP,0000,0000,0000,,I want you to stop it right now!
+Dialogue: 0,0:12:18.21,0:12:19.88,Default,NTP,0000,0000,0000,,Stop what?
+Dialogue: 0,0:12:20.46,0:12:26.14,Default,NTP,0000,0000,0000,,Stop causing people here to get hurt\Nand commit Ashinuke and suicide! That's what!
+Dialogue: 0,0:12:26.14,0:12:27.97,Default,NTP,0000,0000,0000,,As for the ones who killed themselves,
+Dialogue: 0,0:12:27.97,0:12:33.06,Default,NTP,0000,0000,0000,,you may as well have bullied them\Nto death, Warabihime!
+Dialogue: 0,0:12:35.31,0:12:38.73,Default,NTP,0000,0000,0000,,That's a harsh thing to say, Madam.
+Dialogue: 0,0:12:38.73,0:12:41.74,Default,NTP,0000,0000,0000,,You're not going to take my side, then?
+Dialogue: 0,0:12:42.44,0:12:47.20,Default,NTP,0000,0000,0000,,You don't think it's their own fault\Nfor irritating me?
+Dialogue: 0,0:12:48.99,0:12:52.91,Default,NTP,0000,0000,0000,,Until now, I've looked the other way\Nmore times than I can count!
+Dialogue: 0,0:12:52.91,0:12:56.17,Default,NTP,0000,0000,0000,,But something's not right about you!
+Dialogue: 0,0:12:56.17,0:12:58.25,Default,NTP,0000,0000,0000,,I can't protect you anymore!
+Dialogue: 0,0:13:00.34,0:13:08.72,Default,NTP,0000,0000,0000,,And exactly whose earnings was it\Nthat allowed this House to prosper so, you hag?
+Dialogue: 0,0:13:09.85,0:13:11.60,Default,NTP,0000,0000,0000,,Years and years ago,
+Dialogue: 0,0:13:12.06,0:13:14.98,Default,NTP,0000,0000,0000,,when I was still a child...
+Dialogue: 0,0:13:15.48,0:13:18.98,Default,NTP,0000,0000,0000,,the old lady from the teahouse\Ntold me a story.
+Dialogue: 0,0:13:19.32,0:13:24.65,Default,NTP,0000,0000,0000,,She'd become profoundly forgetful,\Nbut she told me about a certain Oiran.
+Dialogue: 0,0:13:25.15,0:13:29.66,Default,NTP,0000,0000,0000,,She was incredibly beautiful,\Nbut also incredibly twisted by nature.
+Dialogue: 0,0:13:30.20,0:13:33.66,Default,NTP,0000,0000,0000,,The old lady said that she'd seen\Nsuch Oirans when she was a child,
+Dialogue: 0,0:13:33.66,0:13:36.67,Default,NTP,0000,0000,0000,,and again,\Nwhen she was middle-aged.
+Dialogue: 0,0:13:36.67,0:13:45.72,Default,NTP,0000,0000,0000,,{\an8}YATAMAHIME
+Dialogue: 0,0:13:37.04,0:13:41.55,Default,NTP,0000,0000,0000,,These Oirans were fond\Nof assuming names ending with "hime,"
+Dialogue: 0,0:13:42.00,0:13:44.67,Default,NTP,0000,0000,0000,,and if anything were to irritate them,
+Dialogue: 0,0:13:45.01,0:13:48.68,Default,NTP,0000,0000,0000,,they'd cock their heads to the side\Nand glare at you from below.
+Dialogue: 0,0:13:48.68,0:13:51.47,Default,NTP,0000,0000,0000,,That was a unique habit they shared.
+Dialogue: 0,0:13:52.01,0:13:53.35,Default,NTP,0000,0000,0000,,You!
+Dialogue: 0,0:13:53.35,0:13:55.68,Default,NTP,0000,0000,0000,,Who are you?
+Dialogue: 0,0:13:56.06,0:13:57.44,Default,NTP,0000,0000,0000,,{\an8}Could it be...
+Dialogue: 0,0:13:57.44,0:13:59.52,Default,NTP,0000,0000,0000,,{\an8}th-that you...
+Dialogue: 0,0:13:59.52,0:14:01.69,Default,NTP,0000,0000,0000,,{\an8}You're not human?
+Dialogue: 0,0:14:10.03,0:14:12.45,Default,NTP,0000,0000,0000,,{\an8}That's the kind of thing...
+Dialogue: 0,0:14:13.16,0:14:16.12,Default,NTP,0000,0000,0000,,that you should keep your mouth\Nshut about when you realize it.
+Dialogue: 0,0:14:16.12,0:14:19.46,Default,NTP,0000,0000,0000,,It's the smart way to live.
+Dialogue: 0,0:14:19.75,0:14:22.96,Default,NTP,0000,0000,0000,,That's how everyone's survived until now.
+Dialogue: 0,0:14:25.05,0:14:34.10,Default,NTP,0000,0000,0000,,But it looks like you're far more stupid\Nthan I ever thought.
+Dialogue: 0,0:14:34.64,0:14:37.60,Default,NTP,0000,0000,0000,,It's a real pity, Omitsu.
+Dialogue: 0,0:14:39.23,0:14:52.87,Default,NTP,0000,0000,0000,,{\an6}UPPER SIX
+Dialogue: 0,0:14:39.48,0:14:43.02,Default,NTP,0000,0000,0000,,There's no need for you\Nto be so scared!
+Dialogue: 0,0:14:43.36,0:14:47.07,Default,NTP,0000,0000,0000,,The dried-out flesh of old hags\Nlike you tastes horrible.
+Dialogue: 0,0:14:47.07,0:14:52.87,Default,NTP,0000,0000,0000,,If it's ugly or dirty, there's no way\NI'd ever put it in my mouth!
+Dialogue: 0,0:14:53.41,0:14:55.87,Default,NTP,0000,0000,0000,,{\an8}Goodbye, Omitsu.
+Dialogue: 0,0:14:55.87,0:14:56.87,Default,NTP,0000,0000,0000,,{\an8}Stop...
+Dialogue: 0,0:14:56.87,0:14:58.00,Default,NTP,0000,0000,0000,,Stop!
+Dialogue: 0,0:15:05.84,0:15:07.97,Default,NTP,0000,0000,0000,,What the...
+Dialogue: 0,0:15:07.97,0:15:09.43,Default,NTP,0000,0000,0000,,She's dead!
+Dialogue: 0,0:15:09.43,0:15:11.51,Default,NTP,0000,0000,0000,,She fell! Who is it?
+Dialogue: 0,0:15:11.51,0:15:12.89,Default,NTP,0000,0000,0000,,No!
+Dialogue: 0,0:15:12.89,0:15:14.51,Default,NTP,0000,0000,0000,,Isn't that the madam?
+Dialogue: 0,0:15:15.14,0:15:18.02,Default,NTP,0000,0000,0000,,Hurry! Somebody call\Nthe House Master right away!
+Dialogue: 0,0:15:23.52,0:15:25.65,Default,NTP,0000,0000,0000,,How are you doing?
+Dialogue: 0,0:15:26.23,0:15:27.99,Default,NTP,0000,0000,0000,,Master Muzan!
+Dialogue: 0,0:15:29.82,0:15:33.07,Default,NTP,0000,0000,0000,,I can see that you've devoured\Nscores of humans.
+Dialogue: 0,0:15:33.07,0:15:36.45,Default,NTP,0000,0000,0000,,You've gained\Neven more power than before.
+Dialogue: 0,0:15:36.83,0:15:39.00,Default,NTP,0000,0000,0000,,That's a good thing.
+Dialogue: 0,0:15:39.54,0:15:41.00,Default,NTP,0000,0000,0000,,Yes!
+Dialogue: 0,0:15:41.37,0:15:43.83,Default,NTP,0000,0000,0000,,{\an8}But you mustn't let your guard down.
+Dialogue: 0,0:15:43.83,0:15:48.67,Default,NTP,0000,0000,0000,,{\an8}The more things go your way, the more apt you are\Nto get the rug pulled out from under you.
+Dialogue: 0,0:15:48.67,0:15:50.80,Default,NTP,0000,0000,0000,,{\an8}Understood!
+Dialogue: 0,0:15:51.13,0:15:54.14,Default,NTP,0000,0000,0000,,{\an8}A skilled member of the Demon Slayer Corps,
+Dialogue: 0,0:15:54.14,0:15:58.68,Default,NTP,0000,0000,0000,,{\an8}a Hashira, could recognize us\Nas demons right away.
+Dialogue: 0,0:15:58.68,0:16:03.77,Default,NTP,0000,0000,0000,,{\an8}On the other hand, aside from those\Nas capable as Hashira,
+Dialogue: 0,0:16:03.77,0:16:08.65,Default,NTP,0000,0000,0000,,{\an8}we cannot see any differences\Nbetween humans at a glance.
+Dialogue: 0,0:16:09.15,0:16:12.61,Default,NTP,0000,0000,0000,,{\an8}Although we can distinguish them\Nby blood type, disease and genes...
+Dialogue: 0,0:16:12.61,0:16:17.03,Default,NTP,0000,0000,0000,,{\an8}Things that humans\Nhave no knowledge of.
+Dialogue: 0,0:16:18.99,0:16:20.58,Default,NTP,0000,0000,0000,,Daki...
+Dialogue: 0,0:16:21.25,0:16:22.46,Default,NTP,0000,0000,0000,,Yes?
+Dialogue: 0,0:16:22.46,0:16:24.58,Default,NTP,0000,0000,0000,,Yes, Master Muzan?
+Dialogue: 0,0:16:25.21,0:16:28.59,Default,NTP,0000,0000,0000,,I have high hopes for you.
+Dialogue: 0,0:16:29.21,0:16:31.88,Default,NTP,0000,0000,0000,,No one is as beautiful as you.
+Dialogue: 0,0:16:31.88,0:16:34.09,Default,NTP,0000,0000,0000,,Nor as strong.
+Dialogue: 0,0:16:34.47,0:16:37.35,Default,NTP,0000,0000,0000,,{\an8}You've disposed of seven Hashira.
+Dialogue: 0,0:16:39.43,0:16:44.44,Default,NTP,0000,0000,0000,,You're going to become\Neven more powerful from here on out.
+Dialogue: 0,0:16:44.77,0:16:46.81,Default,NTP,0000,0000,0000,,You'll become cruel.
+Dialogue: 0,0:16:47.48,0:16:49.90,Default,NTP,0000,0000,0000,,You're an extraordinary demon.
+Dialogue: 0,0:17:02.41,0:17:04.92,Default,NTP,0000,0000,0000,,Don't you dare touch me\Nin such a familiar way!
+Dialogue: 0,0:17:04.92,0:17:08.63,Default,NTP,0000,0000,0000,,Don't flatter yourself,\Nyou rotten little punk!
+Dialogue: 0,0:17:08.92,0:17:12.26,Default,NTP,0000,0000,0000,,{\an8}It looks like you're in need of some discipline!
+Dialogue: 0,0:17:12.26,0:17:14.63,Default,NTP,0000,0000,0000,,{\an8}Some severe discipline!
+Dialogue: 0,0:17:14.93,0:17:17.14,Default,NTP,0000,0000,0000,,Warabihime Oiran...
+Dialogue: 0,0:17:19.76,0:17:21.39,Default,NTP,0000,0000,0000,,I beg of you.
+Dialogue: 0,0:17:21.39,0:17:22.47,Default,NTP,0000,0000,0000,,Please.
+Dialogue: 0,0:17:23.06,0:17:25.10,Default,NTP,0000,0000,0000,,Please forgive her.
+Dialogue: 0,0:17:25.10,0:17:29.06,Default,NTP,0000,0000,0000,,It's almost time for us to open.\NOur customers will be arriving.
+Dialogue: 0,0:17:29.06,0:17:32.74,Default,NTP,0000,0000,0000,,I'll be sure to reprimand her harshly.\NSo please, for now...
+Dialogue: 0,0:17:33.15,0:17:37.74,Default,NTP,0000,0000,0000,,Please, just help me save some face.
+Dialogue: 0,0:17:43.45,0:17:47.88,Default,NTP,0000,0000,0000,,I suppose I may have lashed out\Nat this newcomer too mercilessly.
+Dialogue: 0,0:17:47.88,0:17:50.25,Default,NTP,0000,0000,0000,,Tend to her wounds, please.
+Dialogue: 0,0:17:50.79,0:17:54.38,Default,NTP,0000,0000,0000,,Master, please raise your head.
+Dialogue: 0,0:17:54.38,0:17:57.43,Default,NTP,0000,0000,0000,,I'm the one who should be apologizing.
+Dialogue: 0,0:17:57.43,0:18:02.01,Default,NTP,0000,0000,0000,,Lately, so many things\Nhave left me feeling irritated.
+Dialogue: 0,0:18:03.85,0:18:06.77,Default,NTP,0000,0000,0000,,I'm heading off to work,\Nso get this place tidied up right now.
+Dialogue: 0,0:18:06.77,0:18:08.27,Default,NTP,0000,0000,0000,,Y-Yes, ma'am!
+Dialogue: 0,0:18:08.60,0:18:11.57,Default,NTP,0000,0000,0000,,Call for some help!\NGet this room cleaned up!
+Dialogue: 0,0:18:11.57,0:18:15.65,Default,NTP,0000,0000,0000,,Don't do anything that would\Nget on Warabihime Oiran's nerves!
+Dialogue: 0,0:18:18.11,0:18:20.37,Default,NTP,0000,0000,0000,,{\i1}That little brat...{\i0}
+Dialogue: 0,0:18:20.78,0:18:24.66,Default,NTP,0000,0000,0000,,{\i1}From what I can sense,\Nhis injuries are only minor.{\i0}
+Dialogue: 0,0:18:25.12,0:18:27.37,Default,NTP,0000,0000,0000,,{\i1}Even though he's blacked out...{\i0}
+Dialogue: 0,0:18:28.25,0:18:31.04,Default,NTP,0000,0000,0000,,{\an8}{\i1}he went on the defensive.{\i0}
+Dialogue: 0,0:18:31.38,0:18:33.38,Default,NTP,0000,0000,0000,,{\an8}{\i1}He's no civilian.{\i0}
+Dialogue: 0,0:18:34.00,0:18:36.67,Default,NTP,0000,0000,0000,,{\i1}He's probably with the Demon Slayer Corps!{\i0}
+Dialogue: 0,0:18:36.67,0:18:40.34,Default,NTP,0000,0000,0000,,{\i1}That said, he doesn't have\Nthe skill of a Hashira.{\i0}
+Dialogue: 0,0:18:52.69,0:18:58.65,Default,NTP,0000,0000,0000,,It took you a bit of time,\Nbut you did a good job bringing him in.
+Dialogue: 0,0:18:58.65,0:19:00.91,Default,NTP,0000,0000,0000,,Just keep them coming.
+Dialogue: 0,0:19:01.49,0:19:06.16,Default,NTP,0000,0000,0000,,I'll be happy to kill and devour them all.
+Dialogue: 0,0:19:17.59,0:19:19.72,Default,NTP,0000,0000,0000,,{\i1}There's a murky scent in the air.{\i0}
+Dialogue: 0,0:19:21.43,0:19:23.68,Default,NTP,0000,0000,0000,,{\i1}At night, in this city...{\i0}
+Dialogue: 0,0:19:25.26,0:19:27.56,Default,NTP,0000,0000,0000,,{\i1}there's a murky scent in the air.{\i0}
+Dialogue: 0,0:21:02.57,0:21:03.86,Default,NTP,0000,0000,0000,,Zenko!
+Dialogue: 0,0:21:04.16,0:21:05.74,Default,NTP,0000,0000,0000,,Zenko!
+Dialogue: 0,0:21:10.70,0:21:12.20,Default,NTP,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:21:12.20,0:21:14.83,Default,NTP,0000,0000,0000,,Are you okay, Zenko?
+Dialogue: 0,0:21:18.67,0:21:20.92,Default,NTP,0000,0000,0000,,What happened to me?
+Dialogue: 0,0:21:20.92,0:21:25.18,Default,NTP,0000,0000,0000,,You got punched, Zenko,\Nand you blacked out!
+Dialogue: 0,0:21:25.63,0:21:26.97,Default,NTP,0000,0000,0000,,Oh...
+Dialogue: 0,0:21:26.97,0:21:29.81,Default,NTP,0000,0000,0000,,That's right! My name is Zenko!
+Dialogue: 0,0:21:29.81,0:21:33.18,Default,NTP,0000,0000,0000,,I had a dream that I'd become a man.
+Dialogue: 0,0:21:33.18,0:21:36.52,Default,NTP,0000,0000,0000,,We brought you some food,\Nso be sure to have it.
+Dialogue: 0,0:21:36.52,0:21:39.11,Default,NTP,0000,0000,0000,,Use this to cool down your cheek.
+Dialogue: 0,0:21:39.94,0:21:41.86,Default,NTP,0000,0000,0000,,Ouch, ouch, ouch!
+Dialogue: 0,0:21:42.48,0:21:43.94,Default,NTP,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:21:43.94,0:21:46.82,Default,NTP,0000,0000,0000,,Yes. It's not as bad as it looks.
+Dialogue: 0,0:21:46.82,0:21:48.20,Default,NTP,0000,0000,0000,,I don't think.
+Dialogue: 0,0:21:48.20,0:21:50.49,Default,NTP,0000,0000,0000,,Zenko, thank you.
+Dialogue: 0,0:21:50.49,0:21:51.41,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:51.41,0:21:54.12,Default,NTP,0000,0000,0000,,This is what you got for defending me.
+Dialogue: 0,0:21:55.46,0:22:00.88,Default,NTP,0000,0000,0000,,Any man would rescue\Na damsel in distress. That's a given.
+Dialogue: 0,0:22:01.21,0:22:04.63,Default,NTP,0000,0000,0000,,Not that I'm a man, all right?\NWhat I mean is, any human would, see?
+Dialogue: 0,0:22:04.63,0:22:06.47,Default,NTP,0000,0000,0000,,For instance,\Nthe eldest daughter or whatever!
+Dialogue: 0,0:22:06.47,0:22:11.39,Default,NTP,0000,0000,0000,,I'm the eldest daughter, so I can't stand by\Nwhile a younger girl weeps! Not normally!
+Dialogue: 0,0:22:11.39,0:22:13.14,Default,NTP,0000,0000,0000,,That's not true.
+Dialogue: 0,0:22:13.47,0:22:18.02,Default,NTP,0000,0000,0000,,Everyone here has their hands full\Njust taking care of themselves.
+Dialogue: 0,0:22:18.40,0:22:22.15,Default,NTP,0000,0000,0000,,We've never met\Na kindhearted person like you before.
+Dialogue: 0,0:22:25.24,0:22:27.45,Default,NTP,0000,0000,0000,,See you later, Zenko!
+Dialogue: 0,0:22:27.45,0:22:28.78,Default,NTP,0000,0000,0000,,Take care of yourself!
+Dialogue: 0,0:22:28.78,0:22:30.74,Default,NTP,0000,0000,0000,,Get lots of rest, okay?
+Dialogue: 0,0:22:30.74,0:22:31.74,Default,NTP,0000,0000,0000,,Right.
+Dialogue: 0,0:22:31.74,0:22:32.91,Default,NTP,0000,0000,0000,,Thanks!
+Dialogue: 0,0:22:48.05,0:22:48.93,Default,NTP,0000,0000,0000,,{\an4}NIN-NIN
+Dialogue: 0,0:22:49.97,0:22:51.47,Default,NTP,0000,0000,0000,,{\an8}Combined Junior\Nand Senior High School!
+Dialogue: 0,0:22:51.47,0:22:54.47,Default,NTP,0000,0000,0000,,{\an8}Tales of a Demon Slayer\NAcademy! Christmas Arc!
+Dialogue: 0,0:22:56.18,0:22:58.94,Default,NTP,0000,0000,0000,,Today's the day I've been waiting for!\NIt's Christmas!
+Dialogue: 0,0:22:59.44,0:23:01.81,Default,NTP,0000,0000,0000,,I've invited Nezuko to the Christmas party.
+Dialogue: 0,0:23:02.27,0:23:06.53,Default,NTP,0000,0000,0000,,My planning was flawless. We can proceed\Nstraight from the party to the wedding.
+Dialogue: 0,0:23:07.82,0:23:09.70,Default,NTP,0000,0000,0000,,{\an8}Hey, she's here! Nezuko's here!
+Dialogue: 0,0:23:07.82,0:23:09.70,Default,NTP,0000,0000,0000,,{\an1}EXCITED
+Dialogue: 0,0:23:10.82,0:23:12.83,Default,NTP,0000,0000,0000,,{\an8}Welcome! I've been waiting for you!
+Dialogue: 0,0:23:13.08,0:23:14.91,Default,NTP,0000,0000,0000,,{\an8}Thank you for inviting us to your party!
+Dialogue: 0,0:23:14.91,0:23:16.41,Default,NTP,0000,0000,0000,,{\an8}I did you a solid and showed up!
+Dialogue: 0,0:23:16.79,0:23:18.29,Default,NTP,0000,0000,0000,,{\an8}Merry Christmas.
+Dialogue: 0,0:23:18.50,0:23:21.83,Default,NTP,0000,0000,0000,,{\an9}FLAME
+Dialogue: 0,0:23:19.75,0:23:21.83,Default,NTP,0000,0000,0000,,So what's Christmas? Tell me!
+Dialogue: 0,0:23:22.29,0:23:24.04,Default,NTP,0000,0000,0000,,I never invited you guys!
+Dialogue: 0,0:23:24.42,0:23:25.80,Default,NTP,0000,0000,0000,,And what's with those outfits?
+Dialogue: 0,0:23:25.80,0:23:27.92,Default,NTP,0000,0000,0000,,Talk about mangling stuff up big time!
+Dialogue: 0,0:23:28.30,0:23:30.89,Default,NTP,0000,0000,0000,,None of you have ever been invited\Nto a Christmas party, am I right?
+Dialogue: 0,0:23:30.89,0:23:31.93,Default,NTP,0000,0000,0000,,Stop fooling around!
+Dialogue: 0,0:23:30.89,0:23:31.93,Default,NTP,0000,0000,0000,,{\an8}ZENITSU HAS NEVER BEEN INVITED, EITHER
+Dialogue: 0,0:23:31.93,0:23:33.72,Default,NTP,0000,0000,0000,,Everyone except Nezuko, go home!
+Dialogue: 0,0:23:33.72,0:23:37.02,Default,NTP,0000,0000,0000,,What did you say?\NTell me what Christmas is, dammit!
+Dialogue: 0,0:23:37.02,0:23:38.27,Default,NTP,0000,0000,0000,,Shut up! Do you hear me?
+Dialogue: 0,0:23:38.27,0:23:40.06,Default,NTP,0000,0000,0000,,TO BE CONTINUED
