@@ -1,4 +1,5 @@
 # Demon Slayer Classification and Relationship Analysis Project
+![Demon Slayer Logo](https://fictionhorizon.com/wp-content/uploads/2021/05/Dizajn-bez-naslova-1024x576.jpg)
 
 ## Overview
 
